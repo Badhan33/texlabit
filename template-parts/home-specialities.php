@@ -10,7 +10,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-diamond"></i>
+                    <i class="ion-headphone"></i>
                     <div class="card-body">
                         <h5 class="card-title">24/7 Online Support</h5>
                         <p class="card-text">
@@ -24,7 +24,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-language"></i>
+                    <i class="ion-chatbox"></i>
                     <div class="card-body">
                         <h5 class="card-title">Lifetime Support</h5>
                         <p class="card-text">
@@ -37,7 +37,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-object-group"></i>
+                    <i class="ion-android-apps"></i>
                     <div class="card-body">
                         <h5 class="card-title">Practice Lab Support</h5>
                         <p class="card-text">
@@ -50,7 +50,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-object-group"></i>
+                    <i class="ion-videocamera"></i>
                     <div class="card-body">
                         <h5 class="card-title">Class Video</h5>
                         <p class="card-text">
@@ -63,7 +63,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-object-group"></i>
+                    <i class="ion-ios-book-outline"></i>
                     <div class="card-body">
                         <h5 class="card-title">Review Class</h5>
                         <p class="card-text">
@@ -76,7 +76,7 @@
 
             <div class="col-lg-4 mb-4">
                 <div class="card wow bounceInUp">
-                    <i class="fa fa-object-group"></i>
+                    <i class="ion-ios-briefcase-outline"></i>
                     <div class="card-body">
                         <h5 class="card-title">Job Placement</h5>
                         <p class="card-text">

@@ -14,6 +14,7 @@ function texlab_setup() {
 	register_nav_menus(
 		array(
 			'primary' => esc_html__( 'Primary', 'texlab' ),
+			'home' => esc_html__( 'Home', 'texlab' ),
 		)
 	);
 

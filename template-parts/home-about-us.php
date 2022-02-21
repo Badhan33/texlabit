@@ -17,21 +17,21 @@
                 </p>
 
                 <div class="icon-box wow fadeInUp">
-                    <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+                    <div class="icon"><i class="fa fa-line-chart"></i></div>
                     <h4 class="title"><a href="">Improve Professional Skills</a></h4>
                     <p class="description">No matter what is your background, we are offering many courses for you
                         conducted by experienced trainers to advance your skills.</p>
                 </div>
 
                 <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="icon"><i class="fa fa-photo"></i></div>
+                    <div class="icon"><i class="fa fa-building-o"></i></div>
                     <h4 class="title"><a href="">Well-decorated Environment</a></h4>
                     <p class="description">Texlab IT has tremendously well-decorated campus with upgraded equipment. Our
                         students are very much happy with our culture, environment and outstanding training method.</p>
                 </div>
 
                 <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="icon"><i class="fa fa-bar-chart"></i></div>
+                    <div class="icon"><i class="fa fa-leaf"></i></div>
                     <h4 class="title"><a href="">Quality services</a></h4>
                     <p class="description">We are passionate about providing good service to our students. Thus, the
                         students of this center turn out to be successful marketers and establish their careers in
