@@ -1122,6 +1122,7 @@ h6 {
   padding: 0 0 10px 36px;
   line-height: 28px;
   font-size: 14px;
+  margin-bottom: 5px;
 }
 
 #contact .form #sendmessage {
@@ -1409,4 +1410,47 @@ h6 {
   #intro {
     padding: 100px 0 20px 0;
   }
+}
+
+/* Texlab CSS */
+.texlab-input {
+  position: inherit !important;
+}
+.texlab-input input,
+.texlab-input textarea {
+  display: block;
+  width: 100%;
+  height: calc(2.25rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.texlab-input textarea {
+  height: 120px !important;
+}
+
+.texlab-input input:focus,
+.texlab-input textarea:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 25%);
+}
+
+.form .contactForm .wpforms-confirmation-container p {
+  color: #007bff;
+  border: 1px solid #007bff;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
 }
